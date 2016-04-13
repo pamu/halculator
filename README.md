@@ -1,0 +1,2 @@
+# halculator
+Calculator in Haskell
